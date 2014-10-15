@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# act6-almogino
+#
+
+projectname: act6-almogino
+vendorid: com.almogino
+mainmodule: com.almogino.act6almogino
